@@ -3,9 +3,9 @@
 CIT 128 Student Directed Project
 
 ## Student Info
-    -Jose Cervantes
-    -77778
-    -Fall 2023
+    *Jose Cervantes
+    *77778
+    *Fall 2023
 
 ## Program Description
 
