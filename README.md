@@ -9,7 +9,8 @@ CIT 128 Student Directed Project
 
 ## Program Description
 
-Describe your individual project program and include the goals of the program.
+#Describe your individual project program and include the goals of the program.
+I will provide a list and have students first create a new sorted list and then have them do other tasks like getting rid of a index.
 
 ### Video Demonstration
 
